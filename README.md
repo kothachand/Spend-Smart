@@ -26,7 +26,7 @@ Technologies Used
 Installation
 Run Locally Clone the project
 
-git clone https://github.com/ashfaq9/Spend-Smart Go to the project directory
+git clone https://github.com/Kothachand/Spend-Smart Go to the project directory
 
 cd Expense-Tracker-App Go to the frontend directory and Install dependencies
 
