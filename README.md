@@ -47,4 +47,4 @@ Usage
  * Log In: Access your personal expense dashboard.
  * Add Income/Expenses: Manage your finances by adding income or expense details.
  * Analyze Data: Visualize spending patterns with charts and graphs.
- * Export Data: Download your financial data for further analysis.
+ 
