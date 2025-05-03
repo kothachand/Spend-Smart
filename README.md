@@ -23,3 +23,20 @@ Technologies Used
 * Database:
   * MongoDB
 ![image alt](https://github.com/kothachand/Spend-Smart/blob/00d8e047ed93c85fca0ce6d705a77ddbc91d91be/Screenshot%20(78).png)
+Installation
+To get a local copy up and running follow these simple steps:
+
+1.Clone the repository:
+   git clone https://github.com/your-username/ExpensEase.git
+2.Navigate to the project directory:
+  cd ExpensEase
+3.Install Dependencies:
+   npm install
+4.Set Up Environment Variables: Create a .env file in the backend directory and add the following:
+  MONGO_URL=your-mongodb-connection-string
+  JWT_SECRET=your-secret-key
+  PORT=5000
+5.Run the Frontend: Navigate to frontend directory
+  npm start
+6.Run the Backend: Navigate to backend directory
+  npm start
