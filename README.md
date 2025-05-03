@@ -1,1 +1,1 @@
-
+ExpensEase is a comprehensive expense tracking management website built using the MERN stack. It provides users with tools to manage their finances effectively by tracking income and expenses, analyzing spending habits, and generating insights. The website includes features like user authentication, responsive design, and real-time updates.
