@@ -42,3 +42,9 @@ MONGO_URL : Your MongoDB Connection String
 
 PORT: PORT number
 ![image alt](https://github.com/kothachand/Spend-Smart/blob/b5a0bd4e76f18fa241dac51de6a5b516602dc1b4/Screenshot%20(80).png)
+Usage
+ * Sign Up: Create a new account with a secure password.
+ * Log In: Access your personal expense dashboard.
+ * Add Income/Expenses: Manage your finances by adding income or expense details.
+ * Analyze Data: Visualize spending patterns with charts and graphs.
+ * Export Data: Download your financial data for further analysis.
