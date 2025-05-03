@@ -22,3 +22,4 @@ Technologies Used
    * Express.js
 * Database:
   * MongoDB
+![image alt](https://github.com/kothachand/Spend-Smart/blob/00d8e047ed93c85fca0ce6d705a77ddbc91d91be/Screenshot%20(78).png)
