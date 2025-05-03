@@ -11,3 +11,14 @@ Features
  * Multi-User Support: Each user has their own dashboard and data privacy.
  * Secure Storage: Data is securely stored in MongoDB with password encryption.
  ![image alt](https://github.com/kothachand/Spend-Smart/blob/e8faeab36285f7dfcbd7e757775bb8ab8c79571a/Screenshot%20(85).png)
+Technologies Used
+* Frontend:
+   * React.js
+   * HTML
+   * CSS
+   * JavaScript
+* Backend:
+   * Node.js
+   * Express.js
+* Database:
+  * MongoDB
