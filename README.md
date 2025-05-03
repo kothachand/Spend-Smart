@@ -41,3 +41,4 @@ npm run dev Environment Variables To run this project, you will need to add the 
 MONGO_URL : Your MongoDB Connection String
 
 PORT: PORT number
+![image alt](https://github.com/kothachand/Spend-Smart/blob/b5a0bd4e76f18fa241dac51de6a5b516602dc1b4/Screenshot%20(80).png)
