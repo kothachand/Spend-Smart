@@ -24,19 +24,20 @@ Technologies Used
   * MongoDB
 ![image alt](https://github.com/kothachand/Spend-Smart/blob/00d8e047ed93c85fca0ce6d705a77ddbc91d91be/Screenshot%20(78).png)
 Installation
-To get a local copy up and running follow these simple steps:
+Run Locally Clone the project
 
-1.Clone the repository:
-   git clone https://github.com/your-username/Spend-Smart.git
-2.Navigate to the project directory:
-  cd ExpensEase
-3.Install Dependencies:
-   npm install
-4.Set Up Environment Variables: Create a .env file in the backend directory and add the following:
-  MONGO_URL=your-mongodb-connection-string
-  JWT_SECRET=your-secret-key
-  PORT=5000
-5.Run the Frontend: Navigate to frontend directory
-  npm start
-6.Run the Backend: Navigate to backend directory
-  npm start
+git clone https://github.com/ashfaq9/Spend-Smart Go to the project directory
+
+cd Expense-Tracker-App Go to the frontend directory and Install dependencies
+
+cd frontend npm install Go to the backend directory and Install dependencies
+
+cd backend npm install Start the frontend server
+
+npm start Start the backend server
+
+npm run dev Environment Variables To run this project, you will need to add the following environment variables to your .env file in backend folder
+
+MONGO_URL : Your MongoDB Connection String
+
+PORT: PORT number
